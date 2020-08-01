@@ -16,9 +16,7 @@ project(boilerplate VERSION ${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_REVISION
 # Add the include directories (= our header files) to our build
 include_directories(include)
 
-# Add all the files in our src folder that match the GLOB 
-# (= globbing expressions) *.cpp and store it into the variable SOURCES
-file(GLOB SOURCES "src/*.cpp")
-
 # Add an executable to our project
-add_executable(${PROJECT_NAME} ${SOURCES})
+add_executable(${PROJECT_NAME} 
+    src/main.cpp 
+    src/boilerplate.cpp)

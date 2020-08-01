@@ -1,4 +1,4 @@
-# CMake Boilerplate
+# CMake Boilerplate
 
 A simple CMake boilerplate.
 Have a look at the tutorial [Medium](https://link.medium.com/jzauQXj0A8).

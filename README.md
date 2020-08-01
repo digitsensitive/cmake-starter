@@ -11,7 +11,7 @@ The configuration of CMake is in the `CMakeLists.txt` file in the root folder.
 
 Use of [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html). The style 
 options are defined in the `.clang-format` file. For more details have a look 
-at the [the official Style Options](https://clang.llvm.org/docs/ClangFormatStyleOptions.html).
+at the official [Style Options](https://clang.llvm.org/docs/ClangFormatStyleOptions.html).
 
 ## Buy me a coffee
 
